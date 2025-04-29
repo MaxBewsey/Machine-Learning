@@ -2,7 +2,7 @@ Welcome to my Machine Learning portfolio — a collection of projects that demon
 
 Each project includes data exploration, preprocessing, model training, and evaluation, with a focus on interpretability and practical application.
 
-PROJECT 1 --- Yelp Ratings - Multiple Linear Regression
+**PROJECT 1 --- Yelp Ratings - Multiple Linear Regression**
 <br>
 A regression project using the Yelp Open Dataset to predict a restaurant's star rating based on a variety of variables such as review sentiment and a whole host of business attributes.
 Techniques used: Multiple Linear Regression
