@@ -6,5 +6,7 @@ Welcome to my Machine Learning portfolio — a collection of projects that demon
 Yelp Ratings - Multiple Linear Regression**
 <br>
 A regression project using the Yelp Open Dataset to predict a restaurant's star rating based on a variety of variables such as review sentiment and a whole host of business attributes.
+<br>
 **Techniques used:** Multiple Linear Regression
+<br>
 **Key takeaway:** Review sentiment was the strongest predictor; business features had limited predictive power
