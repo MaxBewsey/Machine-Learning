@@ -31,8 +31,9 @@ A text classification project using a dataset of tweets originating from London 
 <br>
 <br>
 <br>
-**PROJECT 3  
-<br> Male Loneliness Clustering – KMeans Clustering, Unsupervised Learning**  
+**PROJECT 3
+<br>
+Male Loneliness Clustering – KMeans Clustering**
 <br>
 <br>
 An unsupervised machine learning project exploring patterns in male loneliness and emotional behaviour based on survey data from over 1,600 respondents. The project uses KMeans clustering to group men based on how often they express emotions such as crying, seeking advice, physical affection, and feelings of loneliness.
@@ -40,6 +41,6 @@ An unsupervised machine learning project exploring patterns in male loneliness a
 Later in the project, age is introduced as a feature to examine its influence on emotional openness and mental health reporting. The analysis also includes demographic comparisons and visualisations to interpret the emotional landscape of each group.
 <br>
 <br>
-**Techniques used:** KMeans Clustering, PCA, Feature Scaling, Data Visualisation, Boxplots, Subplots, Cluster Interpretation  
+**Techniques used:** KMeans Clustering, PCA, Feature Scaling, Data Visualisation
 <br>
 **Key takeaway:** Younger men were significantly more likely to report feelings of loneliness, despite showing higher levels of emotional openness. Older men, in contrast, reported lower loneliness, potentially reflecting greater life stability or less willingness to express emotional distress.
