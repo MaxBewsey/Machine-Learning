@@ -32,8 +32,7 @@ A text classification project using a dataset of tweets originating from London 
 <br>
 <br>
 **PROJECT 3  
-<br>
-Male Loneliness Clustering – KMeans Clustering, Unsupervised Learning**  
+<br> Male Loneliness Clustering – KMeans Clustering, Unsupervised Learning**  
 <br>
 <br>
 An unsupervised machine learning project exploring patterns in male loneliness and emotional behaviour based on survey data from over 1,600 respondents. The project uses KMeans clustering to group men based on how often they express emotions such as crying, seeking advice, physical affection, and feelings of loneliness.
